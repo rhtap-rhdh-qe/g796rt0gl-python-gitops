@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: g796rt0gl-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/g796rt0gl-python
